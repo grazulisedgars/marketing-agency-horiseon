@@ -27,7 +27,7 @@ https://grazulisedgars.github.io/marketing-agency-horiseon/
 ## Screenshot
 
 ![Alt text](assets/images/Website1.png)
-![Alt text](assets/images/Website2.png)
+![Alt text](assets/images/Website4.png)
 ![Alt text](assets/images/Website3.png)
 
 ## License
