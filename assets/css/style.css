@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* before it used to be .header div - I changed div tag to nav and so I had to change all div to nav in header section */
 .header nav {   
     padding-top: 15px;
     margin-right: 20px;
@@ -75,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* There used to be 3 identical properties for content so I consolidated them in .content-block */
 .content-block {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,6 +108,7 @@ p {
     color: #ffffff;
 }
 
+/* There used to be 3 identical properties for benefit so I consolidated them in .benefit-block */
 .benefit-block {
     margin-bottom: 32px;
     color: #ffffff;

@@ -20,6 +20,12 @@ CSS:
 
 At first when consolidating files I didn't understand why certain parts don't work but then I realised that I should add (i.e h2 or img extensions to my selectors to catch all the components)
 
+## Link
+
+https://grazulisedgars.github.io/marketing-agency-horiseon/
+
+## Screenshot
+
 ## License
 
 MIT
